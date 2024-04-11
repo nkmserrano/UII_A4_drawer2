@@ -10,7 +10,7 @@ class Movies extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Movies"),
+        title: const Text("Movies Nairobi Montiel"),
         backgroundColor: const Color(0xff9cf4de),
       ),
       drawer: const DrawerMenu(),
